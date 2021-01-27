@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Working with computer was always something I really enjoyed which is why becoming a software engineer was always my goal! I especially enjoy creating innovative and full-stack applications which scale and are delivered continously.
+Working with computer was always something I really enjoyed which is why becoming a software engineer was always my goal! I especially enjoy creating innovative full-stack applications which scale and are delivered continously.
 
 ### Work Experience
 
