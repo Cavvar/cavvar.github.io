@@ -4,7 +4,7 @@ title: Skills
 permalink: /skills/
 ---
 <p align="center">
-  <img width="225" height="225" src="/images/java.svg">
+  <img width="225" height="225" src="/images/Java.svg">
   <img width="225" height="225" src="/images/Spring-01.svg">
   <img width="225" height="225" src="/images/Android-Robot-01.svg">
   <img width="225" height="225" src="/images/Travis-CI-01.svg">
