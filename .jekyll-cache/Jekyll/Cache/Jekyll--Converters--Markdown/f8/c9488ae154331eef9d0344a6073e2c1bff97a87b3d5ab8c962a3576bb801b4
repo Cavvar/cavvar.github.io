@@ -1,0 +1,26 @@
+I"A<p><img src="/images/avatar.png" alt="Picture description" class="center-image" />
+<img src="/images/avatar.png" alt="Picture description" class="center-image" />
+<img src="/images/avatar.png" alt="Picture description" class="center-image" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Column 1</th>
+      <th style="text-align: center">Column 2</th>
+      <th style="text-align: right">Column 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Cell Contents</td>
+      <td style="text-align: center">More Stuff</td>
+      <td style="text-align: right">And Again</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">You Can Also</td>
+      <td style="text-align: center">Put Pipes In</td>
+      <td style="text-align: right">Like this |</td>
+    </tr>
+  </tbody>
+</table>
+:ET
