@@ -9,7 +9,7 @@ Working with computers was always something I really enjoyed which is why becomi
 ### Work Experience
 
 #### Working Student App Developer - Appdafuer
-_October 2020 - Today_
+_October 2020 - March 2021_
 - Development of apps for iOS and Android with React-Native
 - Development of backend systems with Typescript and Node.js
 - Projectmanagement
